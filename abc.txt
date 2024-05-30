@@ -1,0 +1,5 @@
+deepakyadav13012001
+I40DpYwczryClB2w
+mongodb+srv://deepakyadav13012001:I40DpYwczryClB2w@user.fdoekf6.mongodb.net/
+mongodb+srv://deepakyadav13012001:<password>@user.fdoekf6.mongodb.net/?retryWrites=true&w=majority&appName=user
+3w2BHDNbEjSJc1Ur
